@@ -1,5 +1,5 @@
 {
-  "name": "Gost",
+  "name": "myruikou",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["Gost"],
   "env": {
@@ -9,10 +9,10 @@
      },
      "PASSWORD": {
        "description": "A password used to encrypt transfer.",
-       "value": "ss123456"
+       "value": "JEFs33gszfXUNygwMsZS"
      }
   },
   "stack": "container",
-  "website": "https://github.com/xiaokaixuan/gost-heroku",
-  "repository": "https://github.com/xiaokaixuan/gost-heroku"
+  "website": "https://github.com/myruikou/gostmake",
+  "repository": "https://github.com/myruikou/gostmake"
  }
